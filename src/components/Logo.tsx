@@ -2,7 +2,7 @@ export function Logo({ className = '' }: { className?: string }) {
   return (
     <svg
       viewBox="0 0 120 140"
-      aria-label="AIYGO logo"
+      aria-label="PJ Logo"
       role="img"
       className={className}
     >
@@ -26,7 +26,7 @@ export function Logo({ className = '' }: { className?: string }) {
         textAnchor="middle"
         className="fill-current font-serif text-[18px] tracking-[0.12em]"
       >
-        AIYGO
+        PJ
       </text>
     </svg>
   )
