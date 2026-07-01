@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,400&display=swap');
+@import 'tailwindcss';
+@theme {
+  --font-sans: 'IBM Plex Sans', ui-sans-serif, system-ui, sans-serif;
+  --font-serif: 'Source Serif 4', ui-serif, Georgia, serif;
+  --color-background: hsl(40 8% 91%);
+  --color-foreground: hsl(220 15% 12%);
+  --color-navy: hsl(213 28% 32%);
+  --color-border: hsl(220 15% 12%);
+}
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+  }
+}
+@layer components {
+  .site-container {
+    @apply max-w-[52rem] px-5 sm:px-8;
+  }
+  .eyebrow {
+    @apply font-sans text-[11px] sm:text-xs uppercase tracking-[0.14em] text-foreground/45;
+  }
+  .section-title {
+    @apply font-serif text-[1.35rem] sm:text-[1.55rem] font-medium leading-tight text-foreground;
+  }
+  .hairline {
+    @apply border-0 border-t border-foreground/20;
+  }
+  .page-title {
+    @apply font-serif text-[1.75rem] sm:text-[2.1rem] font-medium leading-[1.15] text-foreground;
+  }
+  .highlight-link {
+    @apply font-semibold text-navy outline-none bg-gradient-to-r from-navy to-navy bg-no-repeat
+      [background-position:0_100%] bg-[length:0%_2px] transition-[background-size] duration-300
+      hover:bg-[length:100%_2px] focus:bg-[length:100%_2px];
+  }
+  .cta-link {
+    @apply inline-flex items-center gap-1 font-serif text-[1.05rem] sm:text-[1.15rem] text-foreground
+      hover:opacity-60 transition-opacity;
+  }
+  .tag {
+    @apply inline-block font-sans text-[10px] sm:text-[11px] uppercase tracking-[0.08em]
+      px-2 py-0.5 border border-foreground/25 text-foreground/70;
+  }
+}
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(12px);}
+  to {
+    opacity: 1;
+    transform: translateY(0);}}
+.animate-fade-up {
+  animation: fade-up 0.6s ease-out both;}
