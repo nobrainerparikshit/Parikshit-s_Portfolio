@@ -36,14 +36,12 @@ export function Footer() {
     </footer>
   )
 }
-
 export function BackToTop() {
   return (
     <button
       type="button"
       onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-      className="mt-8 font-sans text-sm text-foreground/60 hover:text-foreground transition-colors"
-    >
+      className="mt-8 font-sans text-sm text-foreground/60 hover:text-foreground transition-colors">
       ↑ Back to top
     </button>
   )
