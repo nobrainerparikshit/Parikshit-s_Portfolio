@@ -18,7 +18,6 @@ export function Header() {
             </p>
           </Link>
         </div>
-
         <div className="flex items-center justify-start pl-2 sm:pl-4 min-w-0 self-stretch">
           <Link
             to="/"

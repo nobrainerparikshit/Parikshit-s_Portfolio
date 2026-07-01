@@ -50,8 +50,7 @@ return (
         May 2026
 </p>
 <p className="font-serif text-[16px] leading-[1.8] text-foreground/80">
-        Selected among <strong>700+ nominations worldwide</strong> as one of the
-        twenty students recognized for innovation, leadership and
+        Selected as one of the 20 students worldwide from over <strong>700+ nominations worldwide</strong> recognized for innovation, leadership and
         research while receiving a merit scholarship.
 </p>
 </div>
@@ -227,7 +226,7 @@ return (
       </p>
 
       <p className="font-serif text-[16px] leading-[1.8] text-foreground/80">
-        Proposed an offline AI-based vocal biomarker screening framework
+        Proposed an offline AI based vocal biomarker screening framework
         capable of detecting early neurodegenerative disorders.
       </p>
 
@@ -244,7 +243,7 @@ return (
       </p>
 
       <p className="font-serif text-[16px] leading-[1.8] text-foreground/80">
-        Presented a multi-sensor framework for accessible early-stage skin
+        Presented a multi sensor framework for accessible early-stage skin
         cancer detection in underserved communities.
       </p>
 
@@ -290,18 +289,6 @@ return (
 
 </section>
 
-    </div>
-  )
-}
-
-export function MemberPortalPage() {
-  return (
-    <div className="space-y-6 max-w-[36rem]">
-      <p className="eyebrow mb-2">Members only</p>
-      <h1 className="page-title mb-3">Member Portal</h1>
-      <p className="font-serif text-[16px] leading-[1.7] text-foreground/80">
-        Coming soon.
-      </p>
     </div>
   )
 }

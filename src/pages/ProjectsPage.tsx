@@ -27,7 +27,7 @@ return (
             EutroBot
 </h2>
 <p className="font-sans text-sm text-foreground/50 mb-2">
-            World's First Autonomous Phytoremediation Robot • Oct 2024 – Present
+            World's First Autonomous Phytoremediation Robot • Oct 2024 - Present
 </p>
 <div className="flex flex-wrap gap-2 mb-4">
 <span className="tag">Robotics</span>
@@ -61,7 +61,7 @@ return (
             VAANI 2.0
 </h2>
 <p className="font-sans text-sm text-foreground/50 mb-2">
-            AI-powered Parkinson's Screening Platform • Jun 2026 – Present
+            AI powered Parkinson's Screening Platform • Jun 2026 - Present
 </p>
 <div className="flex flex-wrap gap-2 mb-4">
 <span className="tag">Artificial Intelligence</span>
@@ -72,7 +72,7 @@ return (
             VAANI 2.0 analyzes speech recordings to identify early warning
             signs of Parkinson's Disease using acoustic biomarkers,
             machine learning, and digital signal processing. The platform
-            features real-time analysis, biomarker visualization,
+            features real time analysis, biomarker visualization,
             downloadable reports and AI-assisted neurological screening.
 </p>
 <a
@@ -92,7 +92,7 @@ return (
             Sniff-The-Bag.ai
 </h2>
 <p className="font-sans text-sm text-foreground/50 mb-2">
-            Open Source • Dec 2025 – Present
+            Open Source • Dec 2025 - Present
 </p>
 <div className="flex flex-wrap gap-2 mb-4">
 <span className="tag">Computer Vision</span>
@@ -100,7 +100,7 @@ return (
 <span className="tag">Deep Learning</span>
 </div>
 <p className="font-serif text-[16px] leading-[1.8] text-foreground/80 max-w-[42rem]">
-            Developed an AI-powered baggage screening system capable of
+            Developed an AI powered baggage screening system capable of
             detecting prohibited objects inside X-ray luggage scans using
             YOLOv8. Trained on more than 14,000 annotated objects, the
             system achieved 89.2% mAP@50 while accurately identifying
@@ -123,7 +123,7 @@ return (
             EcoCredit
 </h2>
 <p className="font-sans text-sm text-foreground/50 mb-2">
-            Open Source • Oct 2024 – Oct 2025
+            Open Source • Oct 2024 - Oct 2025
 </p>
 <div className="flex flex-wrap gap-2 mb-4">
 <span className="tag">IoT</span>
@@ -153,14 +153,14 @@ return (
             Krishna.ai
 </h2>
 <p className="font-sans text-sm text-foreground/50 mb-2">
-            AI Animal Disease Prediction • Nov 2025 – Present
+            AI Animal Disease Prediction • Nov 2025 - Present
 </p>
 <div className="flex flex-wrap gap-2 mb-4">
 <span className="tag">Machine Learning</span>
 <span className="tag">Veterinary Healthcare</span>
 </div>
 <p className="font-serif text-[16px] leading-[1.8] text-foreground/80 max-w-[42rem]">
-            Krishna.ai is an AI-assisted disease prediction platform built to
+            Krishna.ai is an AI assisted disease prediction platform built to
             support veterinarians and farmers by helping identify diseases in
             livestock, making healthcare more accessible in rural and
             underserved communities.
@@ -182,7 +182,7 @@ return (
             VAANI
 </h2>
 <p className="font-sans text-sm text-foreground/50 mb-2">
-            Edge AI ALS Screening Device • Oct 2025 – May 2026
+            Edge AI ALS Screening Device • Oct 2025 - May 2026
 </p>
 <div className="flex flex-wrap gap-2 mb-4">
 <span className="tag">TinyML</span>

@@ -33,7 +33,7 @@ return (
       Operation Jal Rakshak
 </p>
 <p className="font-sans text-[13px] text-foreground/45 mt-1">
-      Sep 2025 – Present • India
+      Sep 2025 - Present • India
 </p>
 <p className="font-serif text-[16px] leading-[1.8] text-foreground/80 mt-4 max-w-[42rem]">
       Founded a nationwide initiative dedicated to combating water
@@ -58,7 +58,7 @@ return (
       MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)
 </p>
 <p className="font-sans text-[13px] text-foreground/45 mt-1">
-      Apr 2026 – Present • Remote
+      Apr 2026 - Present • Remote
 </p>
 <p className="font-serif text-[16px] leading-[1.8] text-foreground/80 mt-4 max-w-[42rem]">
       Researching agentic AI integration with robotics using ROS and ROS 2,
@@ -81,7 +81,7 @@ return (
       Indian Institute of Science (IISc)
 </p>
 <p className="font-sans text-[13px] text-foreground/45 mt-1">
-      Feb 2026 – Present • Hybrid
+      Feb 2026 - Present • Hybrid
 </p>
 <p className="font-serif text-[16px] leading-[1.8] text-foreground/80 mt-4 max-w-[42rem]">
       Developing machine learning models for catalyst discovery by predicting
@@ -103,7 +103,7 @@ return (
       The Maharaja Sayajirao University of Baroda
 </p>
 <p className="font-sans text-[13px] text-foreground/45 mt-1">
-      Feb 2026 – Present • Hybrid
+      Feb 2026 - Present • Hybrid
 </p>
 <p className="font-serif text-[16px] leading-[1.8] text-foreground/80 mt-4 max-w-[42rem]">
       Building machine learning systems for intelligent transportation,
@@ -127,7 +127,7 @@ return (
       Stanford University
 </p>
 <p className="font-sans text-[13px] text-foreground/45 mt-1">
-      Jan 2026 – Apr 2026 • Remote
+      Jan 2026 - Apr 2026 • Remote
 </p>
 <p className="font-serif text-[16px] leading-[1.8] text-foreground/80 mt-4 max-w-[42rem]">
       Conducted research on sustainable bioremediation systems using
@@ -150,10 +150,10 @@ return (
       National Student Research Institution
 </p>
 <p className="font-sans text-[13px] text-foreground/45 mt-1">
-      Jan 2026 – Present • Remote
+      Jan 2026 - Present • Remote
 </p>
 <p className="font-serif text-[16px] leading-[1.8] text-foreground/80 mt-4 max-w-[42rem]">
-      Mentoring aspiring high-school researchers from around the world in
+      Mentoring aspiring high school researchers from around the world in
       developing research ideas, conducting scientific investigations,
       and preparing manuscripts for publication.
 </p>
@@ -173,7 +173,7 @@ return (
       Lemelson–MIT Program · Rail Innovation in Action
 </p>
 <p className="font-sans text-[13px] text-foreground/45 mt-1">
-      Sep 2025 – Dec 2025 • Remote
+      Sep 2025 - Dec 2025 • Remote
 </p>
 <p className="font-serif text-[16px] leading-[1.8] text-foreground/80 mt-4 max-w-[42rem]">
       Selected among 180 students worldwide (one of only two from India)
@@ -197,7 +197,7 @@ return (
       New York Academy of Sciences · Junior Academy
 </p>
 <p className="font-sans text-[13px] text-foreground/45 mt-1">
-      Aug 2025 – Nov 2025 • Remote
+      Aug 2025 - Nov 2025 • Remote
 </p>
 <p className="font-serif text-[16px] leading-[1.8] text-foreground/80 mt-4 max-w-[42rem]">
       Collaborated with an international team of students to research

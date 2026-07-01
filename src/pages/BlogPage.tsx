@@ -31,9 +31,9 @@ export function BlogPage() {
         </p>
 
         <p className="font-serif text-[16px] sm:text-[17px] leading-[1.7] text-foreground/80 max-w-[40rem]">
-          This will be the first story I publish on my website—a journey that
+          This will be the first story I publish on my website "a journey that
           started with a ₹500 robotics workshop and completely changed the
-          direction of my life.
+          direction of my life."
         </p>
 
         <p className="font-serif text-[16px] sm:text-[17px] leading-[1.7] text-foreground/80 max-w-[40rem]">

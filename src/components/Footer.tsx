@@ -24,7 +24,7 @@ export function Footer() {
         </li>
         <li>
           <a
-            href="https://www.linkedin.com/in/parikshitsinh"
+            href="https://pariksh1t.netlify.app"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:opacity-60 transition-opacity"

@@ -19,7 +19,7 @@ export function HomePage() {
         <h2 className="section-title mb-4">How I Got Started</h2>
         <div className="space-y-4 font-serif text-[25px] sm:text-[20px] leading-[1.5] text-foreground/85 max-w-[45rem]">
           <p>
-            My Journey begain in september of 2024
+            My Journey began in september of 2024
             when i signed up for a robotics workshop that was ₹500, that one workshop changed my life forever, 
             it was the first time i was exposed to robotics and i was fascinated by it, 
             i started learning more about robotics and soon i was building my own robots and participating in competitions.

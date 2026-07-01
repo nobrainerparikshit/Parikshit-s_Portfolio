@@ -6,7 +6,6 @@ import { ProjectsPage } from './pages/ProjectsPage'
 import { BlogPage } from './pages/BlogPage'
 import { ContactPage } from './pages/ContactPage'
 import { AwardsPage } from './pages/AwardsPage'
-
 export default function App() {
   return (
     <BrowserRouter>
