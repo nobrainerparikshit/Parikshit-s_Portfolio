@@ -22,16 +22,6 @@ export function Footer() {
             LinkedIn
           </a>
         </li>
-        <li>
-          <a
-            href="https://pariksh1t.netlify.app"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="hover:opacity-60 transition-opacity"
-          >
-            Contact Me
-          </a>
-        </li>
       </ul>
     </footer>
   )
