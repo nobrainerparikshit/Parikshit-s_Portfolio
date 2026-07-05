@@ -4,7 +4,7 @@ export function Footer() {
       <ul className="flex flex-wrap gap-x-6 gap-y-2 font-sans text-sm text-foreground/80">
         <li>
           <a
-            href="https://www.instagram.com/vsc_pariikshit"
+            href="https://www.instagram.com/nobra1nerpar1ksh1t/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:opacity-60 transition-opacity"
