@@ -22,6 +22,12 @@ export function ContactPage() {
         method="POST"
         className="space-y-6 max-w-[42rem]"
       >
+
+        <input
+          type="hidden"
+          name="_redirect"
+          value="https://pariksh1t.netlify.app/thank-you"/>
+     
         <div>
           <label>Name</label>
 

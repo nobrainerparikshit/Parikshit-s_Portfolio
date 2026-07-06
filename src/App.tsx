@@ -6,6 +6,7 @@ import { ProjectsPage } from './pages/ProjectsPage'
 import { BlogPage } from './pages/BlogPage'
 import { ContactPage } from './pages/ContactPage'
 import { AwardsPage } from './pages/AwardsPage'
+import { ThankYouPage } from './pages/ThankYouPage'
 export default function App() {
   return (
     <BrowserRouter>
@@ -18,6 +19,7 @@ export default function App() {
           <Route path="blog/:slug" element={<BlogPage />} />
           <Route path="contact" element={<ContactPage />} />
           <Route path="awards" element={<AwardsPage />} />
+          <Route path="thank-you" element={<ThankYouPage />} />
         </Route>
       </Routes>
     </BrowserRouter>
