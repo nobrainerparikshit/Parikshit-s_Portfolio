@@ -11,8 +11,6 @@ export function Header() {
           >
             <p className="font-serif uppercase leading-[1.5] tracking-[0.005em] text-[1rem] sm:text-[1.6rem] md:text-[1.85rem]">
               PARIKSHIT'S
-              <br />
-              POLYMATH
               <br/>
               PORTFOLIO
             </p>
@@ -25,7 +23,7 @@ export function Header() {
             className="hover:opacity-85 transition-opacity inline-flex max-w-full items-center justify-center"
           >
             <img
-              src="headshot.jpg"
+              src="headshot.jpeg"
               alt="Parikshit Jadeja"
               className="h-24 sm:h-32 w-auto object-cover"
             />
