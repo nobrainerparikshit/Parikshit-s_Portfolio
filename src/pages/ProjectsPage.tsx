@@ -53,6 +53,14 @@ return (
 >
   View Gallery on LinkedIn ↗
 </a>
+<a
+  href="https://github.com/nobrainerparikshit/Eutrobot_Team_InnoVizards"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="cta-link mt-5 inline-block"
+>
+  View it on Github ↗
+</a>
 </div>
 </div>
 <div className="flex gap-6 border-b border-foreground/15 pb-10 transition-all duration-300 hover:translate-x-1">
@@ -82,6 +90,14 @@ return (
             className="cta-link mt-5 inline-block"
           >
             View Gallery on LinkedIn ↗
+</a>
+<a
+  href="https://github.com/nobrainerparikshit/-VAANI-2.0"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="cta-link mt-5 inline-block"
+>
+  View it on Github ↗
 </a>
 </div>
 </div>
@@ -113,6 +129,14 @@ return (
             className="cta-link mt-5 inline-block"
           >
             View Gallery on LinkedIn ↗
+</a>
+<a
+  href="https://github.com/nobrainerparikshit/Sniff_The_Bag.ai"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="cta-link mt-5 inline-block"
+>
+  View it on Github ↗
 </a>
 </div>
 </div>
