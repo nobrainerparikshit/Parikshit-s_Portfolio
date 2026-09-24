@@ -1,0 +1,3 @@
+# Client-side routing fallback: existing files are served first, everything
+# else renders the SPA shell instead of returning a 404.
+/*  /index.html  200
